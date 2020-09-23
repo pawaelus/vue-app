@@ -22,19 +22,9 @@ export default {
       employees: [
         {
           id: 1,
-          name: 'ts',
-          email: 'ts@epoint.pl',
-        },
-        {
-          id: 2,
-          name: 'ns',
-          email: 'ns@e-point.pl',
-        },
-        {
-          id: 3,
-          name: 'pp',
-          email: 'pp@e-point.pl',
-        },
+          name: 'test',
+          email: 'test',
+        }
       ],
     }
   },
